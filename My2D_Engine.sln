@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My2D_Engine", "My2D_Engine.csproj", "{B8882847-E8AE-4A15-988E-07FCAEE0796C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8882847-E8AE-4A15-988E-07FCAEE0796C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8882847-E8AE-4A15-988E-07FCAEE0796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8882847-E8AE-4A15-988E-07FCAEE0796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8882847-E8AE-4A15-988E-07FCAEE0796C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF829CF-BD3A-461F-A850-2B986CB48A1D}
+	EndGlobalSection
+EndGlobal
